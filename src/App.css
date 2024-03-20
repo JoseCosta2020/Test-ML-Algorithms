@@ -36,3 +36,24 @@
     transform: rotate(360deg);
   }
 }
+
+.users-table {
+  table-layout: fixed;
+  width: 200%;
+  border-collapse: collapse;
+  text-align: left;
+}
+
+.users-table-cell {
+  border: 5px solid #dddddd;
+  text-align: center;
+  width: 500%;
+  height: 500%;
+  padding:1px;
+}
+
+.chart-container {
+  width: 80%;
+  margin: auto;
+  padding: 20px;
+}
